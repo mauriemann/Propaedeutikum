@@ -94,3 +94,13 @@ https://rise.articulate.com/share/FFgHDCFyZbmAXvFGm_mKy7t5YX5E0H_H#/
 ## Sitzung am 30.10.2024
 
 G. Gabriel: „Zur Interpretation philosophischer und literarischer Texte“
+
+
+**Zur nächsten Sitzung:**
+
+1. Verfasst eine kleine Anfangsrecherche zu Hannah Arendt: Wann und wo hat sie gelebt? Welche Werke hat sie geschrieben? Für welche Thesen und Theoreme ist sie bekannt? Umfang: 1 Seite; Abgabe bis Montag, 12 Uhr.
+
+2. Lest die Abschnitte I, II und III aus Hannah Arendt: Sokrates - Apologie der Pluralität.
+
+
+## Sitzung am 6.11.2024
