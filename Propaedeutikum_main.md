@@ -43,10 +43,10 @@ https://www.matthes-seitz-berlin.de/buch/sokrates.-apologie-der-pluralitaet.html
 | **23.10.2024** | **Eröffnung, Organisatorisches** | **Zusatz** |
 |------------|------------------------------|---------|
 | 30.10.2024 | G. Gabriel: „Zur Interpretation philosophischer und literarischer Texte“ |  |
-|  6.11.2024 | Hannah Arendt: Leben und Werk; erste Lektüre |  |
-| 13.11.2024 | Lektüre und Lesetechniken |  |
-| 20.11.2024 | Lektüre |  |
-| 27.11.2024 | Gliederung | |
+| 06.11.2024 | Hannah Arendt: Leben und Werk; erste Lektüre |  |
+| 13.11.2024 | Lektüre und Gliederung  |  |
+| 20.11.2024 | Lektüre und Lesetechniken |  |
+| 27.11.2024 | Führung durch die Fachbibliothek | Beginn 9:00 s.t. |
 | 04.12.2024 | Zusammenfassung und Exzerpt |  |
 | 11.12.2024 | keine Sitzung | Literaturrecherche |
 | 18.12.2024 | Argumentationsgliederung / Forschungsliteratur | |
