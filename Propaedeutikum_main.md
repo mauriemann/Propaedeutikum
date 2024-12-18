@@ -47,10 +47,10 @@ https://www.matthes-seitz-berlin.de/buch/sokrates.-apologie-der-pluralitaet.html
 | 13.11.2024 | Lektüre und Gliederung  |  |
 | 20.11.2024 | Lektüre und Lesetechniken |  |
 | 27.11.2024 | Führung durch die Fachbibliothek | Beginn 9:00 s.t. |
-| 04.12.2024 | Zusammenfassung und Exzerpt |  |
+| 04.12.2024 | entfallen |  |
 | 11.12.2024 | keine Sitzung | Literaturrecherche |
-| 18.12.2024 | Argumentationsgliederung / Forschungsliteratur | |
-| 08.01.2025 | Lektüre |  |
+| 18.12.2024 | Distant, Deep und Close Reading / Forschungsliteratur | Abgabe 6.1.2025 |
+| 08.01.2025 | Lektüre / Argumentationsgliederung | Abgabe 13.01.2025 |
 | 15.01.2025 | Forschung: Wie schreibt man einen Essay? Textgrundlage: Annett Welsch: Der Essay als Denkbewegung, in: Dialektik, Zeitschrift für Kulturphilosophie, 2/2003 | Aufgabenstellung Essay |
 | 22.01.2025 | Keine Sitzung: Schreibzeit | |
 | 29.01.2025 | Lektüre | Abgabe der Essays |
@@ -64,6 +64,7 @@ https://www.matthes-seitz-berlin.de/buch/sokrates.-apologie-der-pluralitaet.html
 
 Im Rahmen der Übung werden Sie verschiedene kleine Prüfungsformen erstellen:
 
+* Anfangsrecherche zu Hannah Arendt
 * dokumentierte Leseübung: Distant, Deep und Close Reading
 * Gliederung eines Abschnitts
 * Recherche von Forschungsliteratur zu Hannah Arendt: 10 Titel, davon mindestens je eine Monographie, ein Aufsatz aus einem Sammelband, ein Aufsatz in einer Fachzeitschrift, ein Eintrag im Historischen Wörterbuch der Philosophie zu einem relevanten Begriff
@@ -104,3 +105,120 @@ G. Gabriel: „Zur Interpretation philosophischer und literarischer Texte“
 
 
 ## Sitzung am 6.11.2024
+
+## Sitzung am 13.11.2024
+
+Gliederung Abschnitt 4
+
+### Aufgabe zur nächsten Sitzung
+
+1. Fertigt eine Gliederung der Abschnitte I-IV an. Arbeitet mit 2 Untergliederungsebenen [e.g. I.1 ... I.1.2 ... IV. 1.3] (Abgabe im OLAT bis Montag, 18 Uhr)
+2. Lest die Abschnitte V-VI
+3. Recherchiert online die Begriffe Distant Reading, Close Reading und Deep Reading
+
+## Sitzung am 20.11.2024
+
+## Sitzung am 27.11.2024
+
+Führung durch die Fachbibliothek Philosophie
+
+Digitaler Handapparat der Deutschen Gesellschaft für Philosophie:
+
+https://zenodo.org/records/10572724
+
+## Sitzung am 04.12.2024
+
+entfallen
+
+## Sitzung am 17.12.2024
+
+Lesetechniken und Forschungsliteratur
+
+Lektüre: Abschnitte V, VI
+
+### Distant Reading
+
+1. Sammeln von allgemeinen Informationen über den Text
+
+> Titel, Länge, Erscheinungsdatum, Entstehungskontext, Einordnung in Werk und Schaffensphase, Textgattung (Buch, Abhandlung, Essay, etc.)
+
+
+2. Sammeln von Schlüsselbegriffen und Konstellationen
+
+
+### Deep reading
+
+1. Langsames, genaues Lesen mit dem Stift
+2. Sinnzusammenhang eines längeren Absatzes begreifen
+3. Sinnabschnitte finden (gliedern)
+4. Indentifikation markanter Passagen / Zitate
+5. Exzerpieren (Worum geht es?)
+
+Abschnitt V (S. 64ff.)
+
+**Sammlung**
+
+* Sokrates im Konflikt mit dem Staat 
+
+    * will nicht primär den Staat ändern, sondern das Denken der Athener:innen 
+
+* Suche nach Wahrheit kann scheitern // nach der Doxa folgt nicht automatisch Wahrheit 
+
+Motivische Verschränkung 
+
+* Frage nach dem Philosophenstaat // Der Politik der Philosophen 
+
+1. 64-65 Doxa und Wahrheit 
+2. Konflikt Philosophie - Politik in Anschluss an das doxa-Problem; Forderung, in Ruhe Denken zu können 
+3. Problematisierung des Philosophenstaats - Frage der Erfahrung 
+
+### Close Reading
+
+Textnahes Interpretieren eines kürzeren Abschnittes
+
+In der Literaturwissenschaft auch methodengestützt, z.B. durch Orientierung an eine erzähltheoretischen Fragestellung, einen Fokus auf Intertextualität oder ähnliches. 
+
+In der Philosophie meist orientiert an der Rekonstruktion des Arguments.
+
+Mögliche Schritte:
+
+1.  Wahl eines Sinnabschnittes, z.B. eines Definitionsabsatzes
+
+>Es scheint ganz offensichtlich und geradezu banal (und wird doch allgemein vergessen), dass jede politische Philosophie zuallererst die Haltung des Philosophen gegenüber den »Angelegenheiten der Menschen« ausdrückt, den *pragmata ton anthrōpōn*, denen er selber zugehört, und dass diese Haltung in sich die Beziehung ausdrückt zwischen einer spezifisch philosophischen Erfahrung und jenen Erfahrungen, die wir machen, wenn wir uns unter Menschen bewegen. Es ist ebenso klar, dass jede politische Philosophie sogleich vor der Alternative steht, entweder die philosophische Erfahrung mit Hilfe von Kategorien aus dem Bereich der menschlichen Angelegenheiten zu interpretieren, oder im Gegenteil für die philosophische Erfahrung Priorität zu beanspruchen und die gesamte Politik in ihrem Licht zu beurteilen. In letzterem Fall wäre die beste Regierungsform ein Zustand, in dem die Philosophen maximale Möglichkeiten des Philosophierens haben, das heißt: ein Zustand, in dem alle Bürger Maßstäben genügen, welche hierfür die optimalen Voraussetzungen schaffen. (V, S. 67)
+
+2. Identifikation der These(n)
+
+    * Zwei unterschiedliche Erfahrungsräume: Politik und Philosophie
+    * Eröffnung des Handlungsbereichs der politischen Philosophie
+    
+3. Suche nach Begriffen und Definitionen
+
+    * Grundbegriffe: Körper (im Gegensatz zur Seele); maximale Möglichkeiten; Maßstab
+
+4. Analyse des Argumentationsganges
+
+[Kleine Anleitung der University of Guelph](https://guides.lib.uoguelph.ca/c.php?g=130967&p=5003050)
+
+
+### Aufgabe bis 6.01.2025
+
+Bearbeiten Sie *Sokrates - Apologie der Pluralität* nach den Schritten zum Distant, Deep und Close Reading.
+
+1. Distant für den ganzen Text (inklusive Auswahl von 5 Schlüsselbegriffen)
+2. Deep Reading für Abschnitt VI
+3. Close Reading eines kurzen Absatzes aus Abschnitt VI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
